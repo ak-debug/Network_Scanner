@@ -1,4 +1,3 @@
-Sure, I can provide a template for a README file for your project.
 
 ---
 
